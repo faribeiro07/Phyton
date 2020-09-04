@@ -1,0 +1,2 @@
+# Phyton
+Learning some codes
